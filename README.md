@@ -5,8 +5,10 @@ tencent uni--rec challenge
 
 
 
-algo0425是baseline
-algo8236是score=0.8236的版本
+algo0425是baseline  
+
+algo8236是score=0.8236的版本  
+
 revise 是在看了很多大佬的赛后分享后做的修正版，后面还会继续更新，只是比赛结束了，遗憾不能去验证这些修改是否有效。
 
 `algo0425` 是一个比较完整的 HyFormer 序列建模方案； algo8236 是在它基础上改成了另一种“NS token 主导”的架构。
